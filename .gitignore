@@ -1,0 +1,16 @@
+*.log
+/.htaccess
+sitemap.xml
+sitemap.xml.gz
+wp-config.php
+wp-content/upgrade/
+wp-content/uploads/
+wp-content/blogs.dir/
+
+/readme.html
+/license.txt
+/node_modules
+.DS_Store
+/staging_*
+/prod_*
+/preprod_*

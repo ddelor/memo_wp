@@ -1,0 +1,9 @@
+
+/vendor/
+/node_modules/
+/dist/
+/composer.phar
+/.htaccess
+/.htaccess-dist
+
+.DS_Store
